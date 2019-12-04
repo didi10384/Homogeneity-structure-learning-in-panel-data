@@ -1,0 +1,3 @@
+# Homogeneity structure learning in large-scale panel data with heavy-tailed errors
+
+This algorithm studies large-scale panel data with an interactive effects model.  It takes into account the individual impacts of covariates and removes the exogenous condition by allowing latent factors to affect both covariates and errors.  Besides, the algorithms waive the sub-Gaussian assumption and allows the errors to be heavy-tailed. Further, the algorithm uses a data-driven procedure to learn a parsimonious yet flexible homogeneity structure embedded in high-dimensional individual impacts of covariates. 
